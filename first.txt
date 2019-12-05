@@ -1,2 +1,4 @@
 gitの練習をしていきます
 追加しました
+*git add
+*git commit
